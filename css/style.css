@@ -286,7 +286,7 @@ h2{
   height: 150px;
   margin: 2%;
   border-radius: 15px;
-  background: #e8ae56;
+  background: #ff82a0;
   box-shadow:  8px 8px 13px #e1b003, 
   -8px -8px 13px #ffce03;
 }
@@ -359,6 +359,7 @@ h2{
   transition: .2s ease;
   font-size: 22px;
 }
+
 .top{
   display: flex;
 }
@@ -379,7 +380,7 @@ ul{
 }
 .flex-grid-services{
   height: 400px;
-  background: #ff9a00;
+  background: #ff82a0;
 }
 .card-content-img{  
   margin-bottom: 20px;
@@ -458,5 +459,5 @@ ul{
 }
 .flex-team-services{
   height: 280px;
-  background: #edc485;
+  background: #ff82a0;
 }
